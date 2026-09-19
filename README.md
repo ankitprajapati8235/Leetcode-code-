@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0876-middle-of-the-linked-list) |
 ## Hash Table
 |  |
@@ -43,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1401-circle-and-rectangle-overlapping](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/1401-circle-and-rectangle-overlapping) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
