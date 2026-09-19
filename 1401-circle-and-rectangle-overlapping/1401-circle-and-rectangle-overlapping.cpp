@@ -9,9 +9,6 @@ public:
 
         long long distanceSquare = dx*dx + dy*dy;
         long long radiusSquare = 1LL * radius * radius;
-        if(distanceSquare <= radiusSquare) {
-            return true;
-        }
-        return false;
+        return distanceSquare <= radiusSquare; 
     }
 };
