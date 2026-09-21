@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0005-longest-palindromic-substring) |
+| [3524-find-x-value-of-array-i](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/3524-find-x-value-of-array-i) |
 ## Manacher
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1401-circle-and-rectangle-overlapping](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/1401-circle-and-rectangle-overlapping) |
+| [3524-find-x-value-of-array-i](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/3524-find-x-value-of-array-i) |
 ## Geometry
 |  |
 | ------- |
@@ -66,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/3498-reverse-degree-of-a-string) |
+## Array
+|  |
+| ------- |
+| [3524-find-x-value-of-array-i](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/3524-find-x-value-of-array-i) |
 <!---LeetCode Topics End-->
