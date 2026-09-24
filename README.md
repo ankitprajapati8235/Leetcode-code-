@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0207-course-schedule) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Doubly-Linked List
 |  |
@@ -108,4 +109,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0207-course-schedule) |
+## Graph Theory
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0207-course-schedule) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
