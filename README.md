@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0139-word-break) |
+| [0208-implement-trie-prefix-tree](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0208-implement-trie-prefix-tree) |
 | [1096-brace-expansion-ii](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0142-linked-list-cycle-ii) |
+| [0208-implement-trie-prefix-tree](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0208-implement-trie-prefix-tree) |
 | [1096-brace-expansion-ii](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0139-word-break) |
+| [0208-implement-trie-prefix-tree](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0208-implement-trie-prefix-tree) |
 ## Memoization
 |  |
 | ------- |
@@ -208,4 +211,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Design
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
