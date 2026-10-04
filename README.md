@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0094-binary-tree-inorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0232-implement-queue-using-stacks](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0234-palindrome-linked-list) |
 | [1096-brace-expansion-ii](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/1096-brace-expansion-ii) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0207-course-schedule](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0207-course-schedule) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Doubly-Linked List
@@ -245,10 +247,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
