@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0032-longest-valid-parentheses) |
 | [0139-word-break](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0139-word-break) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0787-cheapest-flights-within-k-stops) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3524-find-x-value-of-array-i](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/3524-find-x-value-of-array-i) |
 ## Manacher
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0207-course-schedule](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0207-course-schedule) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -194,11 +196,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0207-course-schedule](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0207-course-schedule) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1096-brace-expansion-ii](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/1096-brace-expansion-ii) |
 ## Graph Theory
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0207-course-schedule) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Topological Sort
 |  |
 | ------- |
@@ -296,5 +300,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0787-cheapest-flights-within-k-stops) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/2333-minimum-sum-of-squared-difference) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
