@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Greedy
 |  |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Sorting
 |  |
 | ------- |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3524-find-x-value-of-array-i](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -223,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Combinatorics
 |  |
 | ------- |
