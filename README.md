@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0032-longest-valid-parentheses) |
 | [0139-word-break](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0208-implement-trie-prefix-tree) |
+| [0387-first-unique-character-in-a-string](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0387-first-unique-character-in-a-string) |
 | [0856-score-of-parentheses](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/1021-remove-outermost-parentheses) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0142-linked-list-cycle-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0208-implement-trie-prefix-tree) |
+| [0387-first-unique-character-in-a-string](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0496-next-greater-element-i) |
 | [1096-brace-expansion-ii](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0387-first-unique-character-in-a-string) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Trie
 |  |
@@ -277,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0387-first-unique-character-in-a-string) |
 ## Tree
 |  |
 | ------- |
