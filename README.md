@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0139-word-break) |
 | [0496-next-greater-element-i](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0503-next-greater-element-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0503-next-greater-element-ii) |
 | [0856-score-of-parentheses](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/1021-remove-outermost-parentheses) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0503-next-greater-element-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
