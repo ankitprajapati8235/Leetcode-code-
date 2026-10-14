@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0735-asteroid-collision) |
 | [3498-reverse-degree-of-a-string](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/3498-reverse-degree-of-a-string) |
 ## Array
 |  |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0139-word-break) |
 | [0496-next-greater-element-i](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0735-asteroid-collision) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0735-asteroid-collision) |
 | [0856-score-of-parentheses](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/1021-remove-outermost-parentheses) |
