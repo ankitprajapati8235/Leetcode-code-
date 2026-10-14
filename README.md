@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0134-gas-station](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0134-gas-station) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0387-first-unique-character-in-a-string) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/1221-split-a-string-in-balanced-strings) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Trie
 |  |
