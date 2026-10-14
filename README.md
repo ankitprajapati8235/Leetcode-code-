@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0032-longest-valid-parentheses) |
+| [0071-simplify-path](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0071-simplify-path) |
 | [0139-word-break](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0208-implement-trie-prefix-tree) |
 | [0387-first-unique-character-in-a-string](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0387-first-unique-character-in-a-string) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0032-longest-valid-parentheses) |
+| [0071-simplify-path](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0225-implement-stack-using-queues) |
