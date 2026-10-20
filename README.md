@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0032-longest-valid-parentheses) |
 | [0139-word-break](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0139-word-break) |
+| [0518-coin-change-ii](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0518-coin-change-ii) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0414-third-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0503-next-greater-element-ii) |
+| [0518-coin-change-ii](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0518-coin-change-ii) |
 | [0735-asteroid-collision](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0735-asteroid-collision) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -378,4 +380,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0518-coin-change-ii) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
