@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0518-coin-change-ii) |
 | [0735-asteroid-collision](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0735-asteroid-collision) |
+| [0994-rotting-oranges](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0994-rotting-oranges) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0207-course-schedule](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0207-course-schedule) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0994-rotting-oranges](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0994-rotting-oranges) |
 | [1096-brace-expansion-ii](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/1096-brace-expansion-ii) |
 ## Graph Theory
 |  |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0994-rotting-oranges](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0994-rotting-oranges) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Design
 |  |
