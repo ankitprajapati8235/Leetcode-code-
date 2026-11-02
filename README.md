@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0414-third-maximum-number](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0414-third-maximum-number) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1096-brace-expansion-ii](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0002-add-two-numbers) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0134-gas-station) |
 | [0139-word-break](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0139-word-break) |
 | [0414-third-maximum-number](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0414-third-maximum-number) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0496-next-greater-element-i](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/0518-coin-change-ii) |
