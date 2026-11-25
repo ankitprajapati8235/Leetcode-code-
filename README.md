@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3364-minimum-positive-sum-subarray](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/3364-minimum-positive-sum-subarray) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/3525-find-x-value-of-array-ii) |
@@ -264,11 +265,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [3364-minimum-positive-sum-subarray](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/3364-minimum-positive-sum-subarray) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [3364-minimum-positive-sum-subarray](https://github.com/ankitprajapati8235/Leetcode-code-/tree/master/3364-minimum-positive-sum-subarray) |
 ## Breadth-First Search
 |  |
 | ------- |
